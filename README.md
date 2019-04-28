@@ -1,5 +1,5 @@
 # qgis-vice
-Docker build for running QGIS in CyVerse VICE
+Docker build for running QGIS in CyVerse VICE on AWS ( tswetnam/ubuntu-xfce + aws )
 
 To run locally:
 
